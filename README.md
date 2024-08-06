@@ -1,5 +1,6 @@
 ## Hi there 👋
-author- annu
+<br>
+author- Annu
 <!--
 **codewithannuprt/codewithannuprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
